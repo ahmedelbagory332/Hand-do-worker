@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "463218172155",
+    "firebase_url": "https://hand-do-worker.firebaseio.com",
+    "project_id": "hand-do-worker",
+    "storage_bucket": "hand-do-worker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463218172155:android:e00858d976673d7b61505e",
+        "android_client_info": {
+          "package_name": "com.fcicustomer.elbagory.sal7necustoner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463218172155-ut7ho7b8csgmmaf6qkpnibagsr1m36sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fcicustomer.elbagory.sal7necustoner",
+            "certificate_hash": "c3d08dc692cbdf7f8b4f95640fca805f10434c46"
+          }
+        },
+        {
+          "client_id": "463218172155-h5o3mf5s503a9tck9lc9iesorq9e96sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAidsV6OeGfxxcuNlbs5774QpYLYIjIECU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463218172155-h5o3mf5s503a9tck9lc9iesorq9e96sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
